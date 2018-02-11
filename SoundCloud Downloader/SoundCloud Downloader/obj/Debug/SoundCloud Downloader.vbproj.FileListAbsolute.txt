@@ -1,0 +1,13 @@
+c:\users\iheb\documents\visual studio 2013\Projects\SoundCloud Downloader\SoundCloud Downloader\bin\Debug\SoundCloud Downloader.exe
+c:\users\iheb\documents\visual studio 2013\Projects\SoundCloud Downloader\SoundCloud Downloader\bin\Debug\SoundCloud Downloader.pdb
+c:\users\iheb\documents\visual studio 2013\Projects\SoundCloud Downloader\SoundCloud Downloader\bin\Debug\SoundCloud Downloader.xml
+c:\users\iheb\documents\visual studio 2013\Projects\SoundCloud Downloader\SoundCloud Downloader\obj\Debug\SoundCloud_Downloader.Fmain.resources
+c:\users\iheb\documents\visual studio 2013\Projects\SoundCloud Downloader\SoundCloud Downloader\obj\Debug\SoundCloud_Downloader.Resources.resources
+c:\users\iheb\documents\visual studio 2013\Projects\SoundCloud Downloader\SoundCloud Downloader\obj\Debug\SoundCloud Downloader.vbproj.GenerateResource.Cache
+c:\users\iheb\documents\visual studio 2013\Projects\SoundCloud Downloader\SoundCloud Downloader\obj\Debug\SoundCloud Downloader.exe
+c:\users\iheb\documents\visual studio 2013\Projects\SoundCloud Downloader\SoundCloud Downloader\obj\Debug\SoundCloud Downloader.xml
+c:\users\iheb\documents\visual studio 2013\Projects\SoundCloud Downloader\SoundCloud Downloader\obj\Debug\SoundCloud Downloader.pdb
+c:\users\iheb\documents\visual studio 2013\Projects\SoundCloud Downloader\SoundCloud Downloader\bin\Debug\SoundCloud Downloader.exe.config
+C:\Users\Iheb\Documents\Visual Studio 2013\Projects\SoundCloud Downloader\SoundCloud Downloader\obj\Debug\SoundCloud Downloader.vbprojResolveAssemblyReference.cache
+C:\Users\Iheb\Documents\Visual Studio 2013\Projects\SoundCloud Downloader\SoundCloud Downloader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Iheb\Documents\Visual Studio 2013\Projects\SoundCloud Downloader\SoundCloud Downloader\obj\Debug\SoundCloud_Downloader.FrmInfo.resources
